@@ -40,11 +40,24 @@ Atualmente me dedico a estudar:
 ## 📊 Estatísticas
 
 <div align="center">
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenosouzaaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosouzaaa&layout=compact&langs_count=7&theme=tokyonight"/>
-  
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ⭐ Status Github
+<img src="https://github-readme-stats.vercel.app/api?username=brenosouzaaa&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+### 🔥 Linguagens mais usadas
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosouzaaa&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
