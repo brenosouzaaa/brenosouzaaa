@@ -1,0 +1,52 @@
+## Olá, eu sou o Breno Afonso. 👋
+
+Estudante de **Ciência da Computação** | Desenvolvedor em formação
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-afonso-b61672341/)
+
+---
+
+## Sobre mim
+
+- 🎓 Atualmente estudando para me tornar um desenvolvedor.
+- 💡 Interessado em desenvolvimento web, mobile e boas práticas de programação.
+- 🚀 Sempre explorando novas ferramentas, linguagens e desafios.
+
+---
+
+Atualmente me dedico a estudar:
+
+- Desenvolvimento web  
+- Programação orientada a objetos  
+- Aplicações mobile  
+- Estruturas de dados e lógica de programação  
+
+---
+
+## 🛠️ Tecnologias que uso e estudo
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenosouzaaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosouzaaa&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+</div>
+
+---
+
+✉️ **Email:** bre.miguel2007@gmail.com  
