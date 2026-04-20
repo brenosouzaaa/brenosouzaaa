@@ -25,7 +25,7 @@ Atualmente me dedico a estudar:
 
 ## 🛠️ Tecnologias que uso e estudo
 
-<p align="left">
+<p align="left" style="white-space: nowrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
