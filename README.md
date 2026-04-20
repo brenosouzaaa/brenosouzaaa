@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou o Breno Afonso
 
-<p 
+<p align="left">
+
 ## 👨‍💻 Estudante de Ciência da Computação  
-### 💻 Desenvolvedor em formação
+### 💻 Desenvolvedor em formação  
+
 </p>
 
 ---
