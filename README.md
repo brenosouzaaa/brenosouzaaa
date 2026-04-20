@@ -2,8 +2,8 @@
 
 <p align="left">
 
-## 👨‍💻 Estudante de Ciência da Computação  
-### 💻 Desenvolvedor em formação  
+- 👨‍💻 Estudante de Ciência da Computação  
+- 💻 Desenvolvedor em formação  
 
 </p>
 
