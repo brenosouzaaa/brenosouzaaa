@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o Breno Afonso
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&speed=60&pause=1000&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o" />
+<p 
+## 👨‍💻 Estudante de Ciência da Computação  
+### 💻 Desenvolvedor em formação
 </p>
 
 ---
@@ -56,12 +57,6 @@
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
-
----
-
-## ✨ Frase
-
-> “Sempre aprendendo, sempre evoluindo.”
 
 ---
 
