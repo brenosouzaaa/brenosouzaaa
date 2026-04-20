@@ -57,7 +57,7 @@
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#00E7FF&color_dots=#58A6FF" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#A855F7&color_dots=#7C3AED" />
 </p>
 
 ---
