@@ -1,49 +1,20 @@
 # 👋 Olá, eu sou o Breno Afonso
 
-<h3 align="left">💻 Desenvolvedor em formação focado em front-end</h3>
-
 <p align="left">
-🎓 Ciência da Computação (3º semestre) <br>
-🚀 Construindo projetos reais e evoluindo na prática
+
+- 👨‍💻 Estudante de Ciência da Computação  
+- 💻 Desenvolvedor em formação  
+
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre mim
 
-- 💻 Curto transformar ideias em interfaces modernas  
-- 🌐 Foco em desenvolvimento web (HTML, CSS, JS, TS)  
-- 🧪 Explorando testes automatizados com Cypress  
-- 📚 Aprendendo com projetos reais  
-
----
-
-## 🚀 Projetos em destaque
-
-- 🌍 **Site de Viagens**  
-  Interface com filtros, páginas dinâmicas e layout responsivo  
-
-- 📊 **Comparativo de Algoritmos**  
-  Análise de performance entre algoritmos clássicos  
-
-- 🧪 **Testes com Cypress**  
-  Automação E2E para validação de páginas  
-
----
-
-## 🛠️ Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,csharp,flutter,figma&theme=dark"/>
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brenosouzaaa&theme=tokyonight&hide_border=true"/>
-</p>
+- 🎓 Estudante de **Ciência da Computação**
+- 💻 Focado em desenvolvimento web e mobile
+- 📚 Sempre aprendendo novas tecnologias
+- ⚡ Buscando evoluir como desenvolvedor todos os dias
 
 ---
 
@@ -57,6 +28,33 @@
 
 ---
 
+## 🛠️ Tecnologias que uso
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brenosouzaaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brenosouzaaa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 ## 🐍 Contribuições
 
 <p align="center">
@@ -65,12 +63,4 @@
 
 ---
 
-## ⚡ Extras
-
-- ⚽ Torcedor do Palmeiras  
-- 🎧 Programo ouvindo rap/trap  
-- 🎨 Curto UI moderna com tema escuro + roxo  
-
----
-
-✉️ **Contato:** bre.miguel2007@gmail.coms
+✉️ **Contato:** bre.miguel2007@gmail.com
