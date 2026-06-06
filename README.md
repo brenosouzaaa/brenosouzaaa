@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Breno Afonso
+# 👋 Olá, eu sou o Breno
 
 <p align="left">
 
